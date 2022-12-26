@@ -64,5 +64,4 @@ def fetchLine():
     
 
 if __name__ == '__main__':
-    ip='31.220.110.95'
-    app.run(debug=True, host='http://atristress.online/'+ip)
+    app.run(debug=True)
